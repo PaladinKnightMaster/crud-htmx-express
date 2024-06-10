@@ -1,0 +1,17 @@
+{
+  "name": "crud-htmx-express",
+  "version": "1.0.0",
+  "description": "Creating a CRUD(Create, Read, Update, Delete) application is a great way to understand the basics of web development. By the end of this tutorial, you'll have a working application that allows you to add, view, edit and delete tasks. Let's get coding! 😸",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
