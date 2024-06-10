@@ -1,0 +1,2 @@
+# CRUD HTMX Appliction with Express Backend
+Creating a CRUD(Create, Read, Update, Delete) application is a great way to understand the basics of web development. By the end of this tutorial, you'll have a working application that allows you to add, view, edit and delete tasks. Let's get coding! 😸
